@@ -15,7 +15,7 @@ This project aims to predict medical insurance charges using Machine Learning mo
 - bmi
 - smoker
 - children
-
+  
 ## Results
 Linear Regression was identified as the best model.
 
