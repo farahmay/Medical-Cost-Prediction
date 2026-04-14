@@ -21,3 +21,6 @@ Linear Regression was identified as the best model.
 
 ## Author
 Farah May
+
+## Open in Google Colab
+[Open Notebook](https://colab.research.google.com/drive/1_e4MZ19p51vv_6KH8VmfY_7FofJnJoMn?usp=sharing)
